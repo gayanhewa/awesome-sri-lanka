@@ -11,6 +11,7 @@ Awesome of Websites in Sri Lanka
 
 # E-commerce Sites
 
+## General
 * [Takas](http://takas.lk)
 * [WOW](http://www.wow.lk)
 * [Kaymu](http://www.kaymu.lk)
@@ -25,7 +26,15 @@ Awesome of Websites in Sri Lanka
 * [Sendit](http://www.sendit.lk)
 * [Flippy](http://flippy.lk)
 * [Supersavings](http://www.supersavings.lk)
+* [MyStore](https://mystore.lk)
 
-
+## Clothing
 * [Nolimit](http://www.nolimit.lk)
 * [Odel](http://www.odel.lk)
+
+## Mom & Baby 
+* [Happiness](https://happiness.lk)
+
+
+# City Guide
+* [Yamu.lk](http://www.yamu.lk)
